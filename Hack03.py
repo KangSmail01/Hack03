@@ -1,7 +1,6 @@
 # Anbia Nuansyah Decode
 # Created by SANSBAE (https://github.com/KangSmail01)
 # YouTube : KangSmail01
-
 os.system('xdg-open https://m.youtube.com/channel/UCp1dF4ZlEB2h3HUeLs-a2rA')
 
 import marshal,zlib,base64
